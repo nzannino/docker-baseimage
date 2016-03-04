@@ -1,1 +1,1 @@
-image from phusion base docker image with ssh server enabled
+image from phusion base docker image with ssh server disabled
